@@ -1,8 +1,8 @@
 
 # Welcome to my abyss! 🙃  
 Iam Shiwang, a pre-final year engineering student curious to know how shit works.  
-Iam currently Looking for good opportunities in tech.  
 
+- Currently Looking for good opportunities in tech.  
 - Latest Builds:   
   &nbsp; - [Chat Application](https://github.com/Shiwang0-0/Chat-App-MERN)   
   &nbsp; - [Colab-Draw](https://github.com/Shiwang0-0/Colab-Draw)
