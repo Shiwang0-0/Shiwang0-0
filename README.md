@@ -1,5 +1,5 @@
 
-# Welcome to my abyss! 🙃  
+# Welcome to my abyss!
 Iam Shiwang, a final year engineering student curious to know how shit works.  
 
 ### Languages and Tools
